@@ -27,6 +27,6 @@ Uma empresa investe em plataformas como Youtube, Facebook e jornais, registrando
 ## Entrega 📆
 Você pode conferir o código completo [aqui](https://colab.research.google.com/drive/12y4KYxZZkCvflmnyWUEbdyh-dhNr92C8?usp=sharing). Fique à vontade para explorar e sugerir melhorias!
 
-Espero que este projeto demonstre meu interesse e habilidades em Ciência de Dados. Convido você a explorar e discutir maneiras de aprimorar nossas estratégias de marketing.
+Espero que este projeto demonstre meu interesse e habilidades em Ciência de Dados.
 
 Vamos construir um futuro orientado por dados juntos! 🌐💻
